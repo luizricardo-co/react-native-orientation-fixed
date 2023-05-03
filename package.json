@@ -1,6 +1,6 @@
 {
   "name": "react-native-orientation-fixed",
-  "version": "3.2.6",
+  "version": "3.2.7",
   "description": "Listen to device orientation changes in React Native applications and programmatically set preferred orientations on a per screen basis",
   "main": "index.js",
   "scripts": {
